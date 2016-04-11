@@ -1,0 +1,49 @@
+html {
+	box-sizing: border-box;
+	font-family: 'Lato', serif;
+	text-align: center;
+	color: white;
+	background-image: url('../images/LA.jpg');
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+div {
+	border: 1px solid red;
+}
+
+.about{
+	border: 1px solid black;
+	float: right;
+	height: 100%;
+	width: 85%;
+}
+
+.menu {
+	height:10%;
+	width: 100%;
+	margin-top: 0px;
+	margin: 0 auto;
+
+}
+
+ul {
+	padding: 0;
+	text-align: center;
+}
+
+ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	
+
+}
+
+h1 {
+	margin-top: 200px;
+	position: relative;
+	text-align: center;
+	font-size: 60px;
+}
