@@ -146,9 +146,9 @@ p {
 	margin-bottom: 1rem;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 600px) {
     h1 {
-        font-size: 2em;
+        font-size: 5em;
     }
     .about {
         font-size: 2em;
@@ -157,7 +157,7 @@ p {
     	max-width: 3em;
     }
     .main {
-    	background-size: 600px 400px
+    	background-size: cover;
     }
   
 }
