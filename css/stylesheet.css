@@ -6,7 +6,7 @@ html {
 	text-align: center;
 	font-family: 'Open Sans' , sans-serif;
 	color: white;
-	background-image: url('../images/Elegant_Background-8.jpg')
+	background-image: url('../images/Elegant_Background-8.jpg');
 }
 
 body {
@@ -32,7 +32,6 @@ img {
 	color: white;
 	font-family: 'Muli', serif;
 	z-index: 9999;
-	background-image: url('../images/Elegant_Background-8.jpg');
 	position:fixed;
 
 }
