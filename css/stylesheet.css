@@ -10,7 +10,7 @@ html {
 }
 
 body {
-	background-image: url('../images/Elegant_Background-8.jpg');
+	
 	 -webkit-font-smoothing: antialiased;
 	 
 
@@ -151,13 +151,7 @@ p {
         font-size: 5em;
     }
     .about {
-        font-size: 3.5em;
-    }
-    .work {
-    	max-width: 3em;
-    }
-    .main {
-    	background-size: cover;
+        font-size: 3em;
     }
   
 }
