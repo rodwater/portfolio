@@ -58,14 +58,11 @@ img {
 .main {
 	width: 100%;
 	height: 30%;
-	position: relative;
-    background-position: 0 -220px;
-    overflow-y: hidden;
-    background-image: url('../images/LA.jpg');
 	background-size: cover;
-    background-repeat: no-repeat;
-    z-index: 9998;
-
+	background-position: 0 -220px;
+	background-image: url('../images/LA.jpg');
+	background-repeat: no-repeat;
+	overflow-y: hidden;
 }
 
 a:link {
