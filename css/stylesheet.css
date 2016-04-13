@@ -30,8 +30,9 @@ img {
 	margin-bottom: 15px;
 	margin: 0 auto;
 	color: white;
-	font-family: 'Muli', serif;
+	font-family: 'Open Sans', serif;
 	z-index: 9999;
+	background-image: url('../images/Elegant_Background-8.jpg');
 	position:fixed;
 
 }
@@ -63,6 +64,7 @@ img {
     background-image: url('../images/LA.jpg');
 	background-size: cover;
     background-repeat: no-repeat;
+    z-index: 9998;
 
 }
 
