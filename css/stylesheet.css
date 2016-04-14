@@ -146,7 +146,11 @@ p {
 
 @media screen and (max-width: 660px) {
     h1 {
+<<<<<<< HEAD
         font-size: 3em;
+=======
+        font-size: 2.5em;
+>>>>>>> master
         text-align: center;
     }
     .about {
@@ -156,10 +160,23 @@ p {
 
     .menu > ul li {
 		display: inline-block;
+<<<<<<< HEAD
 		margin-left: .7rem;
 		margin-right: 1rem;
 		margin-top: .3rem;
 		margin-bottom: .3rem;
+=======
+		margin-left: 1rem;
+		margin-right: 1rem;
+		margin-top: 3.5rem;
+		margin-bottom: .3rem;
+		font-size: 1.5rem;
+
+	}
+
+	.menu > ul {
+		background-color: black;
+>>>>>>> master
 	}
 	
 	.footer {
@@ -171,7 +188,11 @@ p {
 	}
 
 	.main {
+<<<<<<< HEAD
 		background-size: cover;
+=======
+		background-size: 0;
+>>>>>>> master
 		position: relative;
 		background-image: url('../images/la.jpg');
 		background-repeat: no-repeat;
