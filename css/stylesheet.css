@@ -156,9 +156,9 @@ p {
 
     .menu > ul li {
 		display: inline-block;
-		margin-left: .7rem;
+		margin-left: 1rem;
 		margin-right: 1rem;
-		margin-top: .3rem;
+		margin-top: 3.5rem;
 		margin-bottom: .3rem;
 		font-size: 1.5rem;
 
@@ -166,7 +166,8 @@ p {
 
 	.menu > ul {
 		background-color: black;
-
+	}
+	
 	.footer {
 		margin-top: 200px;
 		margin-bottom: 70px;
@@ -181,7 +182,5 @@ p {
 		background-image: url('../images/la.jpg');
 		background-repeat: no-repeat;
 		overflow-y: hidden;
-
-  
 }
 
