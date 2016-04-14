@@ -156,7 +156,7 @@ p {
 
     .menu > ul li {
 		display: inline-block;
-		margin-left: 1rem;
+		margin-left: .7rem;
 		margin-right: 1rem;
 		margin-top: .3rem;
 		margin-bottom: .3rem;
